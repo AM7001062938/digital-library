@@ -1,0 +1,7 @@
+com\example\library\controller\Valid.class
+com\example\library\repository\BookRepository.class
+com\example\library\DigitalLibraryApplication.class
+com\example\library\service\BookService.class
+com\example\library\model\Book.class
+com\example\library\model\NotBlank.class
+com\example\library\controller\BookController.class
